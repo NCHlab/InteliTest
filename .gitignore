@@ -4,15 +4,15 @@
 /FlaskApp_API/garment_items.jl
 /venv/
 # dependencies
-/frontend_products/node_modules
-/frontend_products/.pnp
-/frontend_products/.pnp.js
+/frontend_reactjs/node_modules
+/frontend_reactjs/.pnp
+/frontend_reactjs/.pnp.js
 
 # testing
-/frontend_products/coverage
+/frontend_reactjs/coverage
 
 # production
-/frontend_products/build
+/frontend_reactjs/build
 
 # misc
 .DS_Store
@@ -25,12 +25,12 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-/frontend_products/.DS_Store
-/frontend_products/.env.local
-/frontend_products/.env.development.local
-/frontend_products/.env.test.local
-/frontend_products/.env.production.local
+/frontend_reactjs/.DS_Store
+/frontend_reactjs/.env.local
+/frontend_reactjs/.env.development.local
+/frontend_reactjs/.env.test.local
+/frontend_reactjs/.env.production.local
 
-/frontend_products/npm-debug.log*
-/frontend_products/yarn-debug.log*
-/frontend_products/yarn-error.log*
+/frontend_reactjs/npm-debug.log*
+/frontend_reactjs/yarn-debug.log*
+/frontend_reactjs/yarn-error.log*
