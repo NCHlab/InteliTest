@@ -32,14 +32,14 @@ Homepage:
 
 
 Black Dress Example with simple search off:
-![BlackDress](/example_images/black dress.PNG)
+![BlackDress](/example_images/black_dress.PNG)
 
 
 Simple Search Dress:
-![simple search dress](/example_images/simple search dress.PNG)
+![simple search dress](/example_images/simple_search_dress.PNG)
 
 Simple Search Dress + Table Search Navy:
-![simple search dress + table search navy](/example_images/simple search dress + table search navy.PNG)
+![simple search dress + table search navy](/example_images/simple_search_dress_+_table_search_navy.PNG)
 
 
 
