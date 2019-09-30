@@ -1,4 +1,5 @@
 README Instructions:
+(This app was created in less than a day as a showcase test for InteliStyle)
 
 1) Ensure Mongodb is installed
 2) Download FlaskApp_API, Install Python packages (using venv optional) from requirements.txt (pip install -r requirements.txt)
@@ -25,3 +26,20 @@ denim
 shoe
 
 (and then refine further with table search)
+
+Homepage:
+![homepage](/example_images/homepage.PNG)
+
+
+Black Dress Example with simple search off:
+![BlackDress](/example_images/black dress.PNG)
+
+
+Simple Search Dress:
+![simple search dress](/example_images/simple search dress.PNG)
+
+Simple Search Dress + Table Search Navy:
+![simple search dress + table search navy](/example_images/simple search dress + table search navy.PNG)
+
+
+
